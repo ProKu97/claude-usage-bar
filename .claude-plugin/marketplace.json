@@ -1,0 +1,11 @@
+{
+  "name": "claude-usage-bar",
+  "owner": { "name": "ProKu97" },
+  "plugins": [
+    {
+      "name": "usage-bar",
+      "source": "./plugin",
+      "description": "在 Claude Code 输入框上方常驻显示 5 小时额度和本周额度的用量与重置时间"
+    }
+  ]
+}

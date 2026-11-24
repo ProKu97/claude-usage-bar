@@ -1,0 +1,9 @@
+{
+  "name": "usage-bar",
+  "version": "1.0.0",
+  "description": "在 Claude Code 输入框上方常驻显示 5 小时额度和本周额度的用量与重置时间",
+  "author": { "name": "ProKu97" },
+  "homepage": "https://github.com/ProKu97/claude-usage-bar",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
